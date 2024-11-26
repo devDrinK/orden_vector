@@ -1,0 +1,10 @@
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\bin\Debug\ordenar-vector.exe.config
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\bin\Debug\ordenar-vector.exe
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\bin\Debug\ordenar-vector.pdb
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\obj\Debug\ordenar-vector.csproj.AssemblyReference.cache
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\obj\Debug\ordenar_vector.Form1.resources
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\obj\Debug\ordenar_vector.Properties.Resources.resources
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\obj\Debug\ordenar-vector.csproj.GenerateResource.cache
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\obj\Debug\ordenar-vector.csproj.CoreCompileInputs.cache
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\obj\Debug\ordenar-vector.exe
+G:\programacion\practica-curso\tareas\ordenar-vector\ordenar-vector\obj\Debug\ordenar-vector.pdb
